@@ -16,7 +16,7 @@ using System.Media;
 
 namespace TeamButtonTap
 {
-    public partial class MainForm : Form
+    public partial class BuzzWindow : Form
     {
 
         private bool TeamAnswering = false; //defines whether or not a team has already pressed the button to answer
@@ -24,7 +24,7 @@ namespace TeamButtonTap
         private System.Timers.Timer resetTimer;
         private const int ANSWER_LOCK_PERIOD = 8;
 
-        public MainForm()
+        public BuzzWindow()
         {
             InitializeComponent();
         }

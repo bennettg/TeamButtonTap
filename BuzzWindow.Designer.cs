@@ -1,6 +1,6 @@
 ﻿namespace TeamButtonTap
 {
-    partial class MainForm
+    partial class BuzzWindow
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BuzzWindow));
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -85,7 +85,7 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Ready";
             // 
-            // MainForm
+            // BuzzWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -94,7 +94,7 @@
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "MainForm";
+            this.Name = "BuzzWindow";
             this.Text = "Team Tap - A Solution For Mutual Activities That Don\'t Have a Buzzer System!";
             this.Load += new System.EventHandler(this.MainWindow_Load);
             this.panel1.ResumeLayout(false);
