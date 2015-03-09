@@ -1,0 +1,9 @@
+C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\bin\Debug\TeamButtonTap.exe.config
+C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\bin\Debug\TeamButtonTap.exe
+C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\bin\Debug\TeamButtonTap.pdb
+C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Debug\TeamButtonTap.csprojResolveAssemblyReference.cache
+C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Debug\TeamButtonTap.MainForm.resources
+C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Debug\TeamButtonTap.Properties.Resources.resources
+C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Debug\TeamButtonTap.csproj.GenerateResource.Cache
+C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Debug\TeamButtonTap.exe
+C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Debug\TeamButtonTap.pdb
