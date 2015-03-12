@@ -1,9 +1,9 @@
 C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\bin\Release\TeamButtonTap.exe.config
 C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\bin\Release\TeamButtonTap.exe
 C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\bin\Release\TeamButtonTap.pdb
-C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Release\TeamButtonTap.MainForm.resources
 C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Release\TeamButtonTap.Properties.Resources.resources
 C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Release\TeamButtonTap.csproj.GenerateResource.Cache
 C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Release\TeamButtonTap.exe
 C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Release\TeamButtonTap.pdb
 C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Release\TeamButtonTap.csprojResolveAssemblyReference.cache
+C:\Users\Bennett\Documents\Visual Studio 2013\Projects\TeamButtonTap\TeamButtonTap\obj\Release\TeamButtonTap.BuzzWindow.resources
